@@ -5,4 +5,8 @@ print("GO 2023")
 
 print("testing merge")
 
+<<<<<<< HEAD
 asdf
+=======
+asdf
+>>>>>>> 18dd8782bbd4c0579f47e440a4f1a43ff578e9da
